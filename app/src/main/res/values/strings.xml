@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Naloxone4you</string>
+    <string name="preferencesServer">"Connection"</string>
+    <string name="preferencesHost" translatable="false">"Host"</string>
+    <string name="preferencesPort" translatable="false">"Port"</string>
+    <string name="preferencesWebsocket">Use WebSockets</string>
+    <string name="preferencesUserUsername">"Username"</string>
+    <string name="preferencesDeviceName" translatable="false">"Device ID"</string>
+    <string name="preferencesBrokerAuth">"Authentication"</string>
+    <string name="preferencesBrokerPassword">"Password"</string>
+
+
+    <string name="preferencesCaCrtPath">CA certificate</string>
+    <string name="preferencesClientCrtPath">Client certificate</string>
+    <string name="preferencesClientCrtPassword">Client certificate password</string>
+
+    <string name="preferencesLicenses">"Libraries"</string>
+    <string name="preferencesLicensesSummary">"Thanks to the authors of included libraries"</string>
+    <string name="preferencesNotification">Notifications</string>
+    <string name="preferencesNotificationEvents">Events </string>
+    <string name="preferencesNotificationEventsSummary">Notify about received events </string>
+    <string name="preferencesNotificationSummary">"Display a notification to keep running"</string>
+    <string name="preferencesNotificationLocationSummary">"Display last reported location and time"</string>
+    <string name="preferencesNotificationLocation">"Last reported location"</string>
+
+    <string name="preferencesAdvanced">"Advanced"</string>
+    <string name="preferencesVersion">"Version"</string>
+    <string name="preferencesReporting">"Reporting"</string>
+    <string name="preferencesBackgroundUpdates">Automatic location reporting</string>
+    <string name="preferencesTrackerId" translatable="false">Tracker ID</string>
+    <string name="preferencesBackgroundUpdatesSummary">Report location automatically</string>
+    <string name="preferencesLocatorDisplacement">Locator background displacement</string>
+    <string name="preferencesLocatorDisplacementSummary">Distance between location updates</string>
+    <string name="preferencesLocatorInterval">Locator background interval</string>
+    <string name="preferencesLocatorIntervalSummary">Seconds between location updates</string>
+    <string name="preferencesInfo">Information</string>
+    <string name="preferencesRepository">Source Code</string>
+    <string name="preferencesRepositorySummary" translatable="false">github.com/owntracks/android</string>
+    <string name="preferencesDocumentation">Documentation</string>
+    <string name="preferencesDocumentationSummary" translatable="false">owntracks.org/booklet/</string>
+    <string name="preferencesTwitter" translatable="false">Twitter</string>
+    <string name="preferencesTwitterSummary" translatable="false">twitter.com/owntracks</string>
+    <string name="preferencesCommunity">Community</string>
+    <string name="preferencesCommunitySummary" translatable="false">community.owntracks.org</string>
+    <string name="preferencesEncryptionKeySummary">Symmetric key for payload encryption </string>
+    <string name="preferencesEncryptionKey">Encryption Key</string>
+
+
+
+
+    <string name="na">Not available</string>
+    <string name="currentLocation">Use current location</string>
+    <string name="share">Share</string>
+    <string name="save">"Save"</string>
+    <string name="cancel">"Cancel"</string>
+    <string name="preferencesCleanSessionEnabled">Clean Session</string>
+    <string name="publish">Report</string>
+    <string name="preferencesPubExtendedDataSummary">Include extended data in location reports</string>
+    <string name="preferencesPubExtendedData">Extended data</string>
+    <string name="preferencesAutostartSummary">Automatically start on device boot</string>
+    <string name="preferencesAutostart">Autostart</string>
+    <string name="preferencesPlayOverrideSummary">Do not use Google Play Services. Needs restart. Warning: unsupported mode! Some features will be not available.</string>
+    <string name="preferencesPlayOverride">Override Google Play Services</string>
+    <string name="preferencesLocatorAccuracyBackground">Locator background accuracy</string>
+    <string name="preferencesLocatorAccuracyBackgroundSummary">Accuracy and power usage in the background</string>
+    <string name="preferencesLocatorAccuracyForeground">Locator foreground accuracy</string>
+    <string name="preferencesLocatorAccuracyForegroundSummary">Accuracy and power usage in the foreground</string>
+    <string name="preferencesRemoteCommand">Remote commands</string>
+    <string name="preferencesRemoteCommandSummary">Enable remote commands</string>
+    <string name="description">Description</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="radius">Radius</string>
+    <string name="addWaypoint">Add waypoint</string>
+    <string name="export">Export</string>
+    <string name="exportConfiguration">Export preferences</string>
+    <string name="preferencesExport">Export</string>
+    <string name="contactLocationUnknown">No location is available</string>
+    <string name="contactPhoneUnknown">No phone is available</string>
+    <string name="menuContactNavigate">Call</string>
+    <string name="menuCurrentLoction">Current location</string>
+
+    <string name="contactDetailsLocation">Location</string>
+    <string name="contactDetailsAccuracy">Accuracy</string>
+    <string name="contactDetailsReportedTime">Reported</string>
+    <string name="contactDetailsTopic">Phone Number</string>
+    <string name="contactDetailsName">Name</string>
+    <string name="waypointListPlaceholder">No waypoints defined yet</string>
+    <string name="geofenceActive">Geofence enabled</string>
+    <string name="waypointRemove">Remove</string>
+    <string name="importConfig">Import</string>
+    <string name="importWarning">The following preference values will be imported:</string>
+    <string name="tls" translatable="false">TLS</string>
+    <string name="preferencesSecurity">Security</string>
+    <string name="accept">Accept</string>
+    <string name="preferencesIdentification">Identification</string>
+    <string name="preferencesOptions">Parameters</string>
+    <string name="preferencesKeepalive" translatable="false">Keepalive</string>
+    <string name="seconds">Seconds</string>
+    <string name="preferencesProfileId">Mode</string>
+    <string name="snackbarConnected">Connected</string>
+    <string name="snackbarDisconnected">Disconnected</string>
+    <string name="snackbarDisconnectedError">Disconnected with error</string>
+
+
+    <string name="ssid" translatable="false">SSID</string>
+    <string-array name="locatorAccuracy_readable">
+        <item>High power</item>
+        <item>Balanced power</item>
+        <item>Low power</item>
+        <item>No power</item>
+    </string-array>
+
+
+    <string name="mode_mqtt_private_label">Private MQTT</string>
+    <string name="mode_mqtt_public_label">Public MQTT</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="connectivityDisconnectedConfigIncomplete">Connection not configured</string>
+
+    <string name="snackbarImportCompleted">Preferences imported</string>
+    <string name="snackbarConfigIncomplete">Configuration incomplete</string>
+    <string name="aLocation">a region</string>
+    <string name="events">Events</string>
+    <string name="notificationMessageTitle">Messages</string>
+    <string name="beaconUUID" translatable="false">Beacon UUID</string>
+    <string name="beaconMajor" translatable="false">Beacon major</string>
+    <string name="beaconMinor" translatable="false">Beacon minor</string>
+    <string name="locationPermissionNotAvailable">Location access denied</string>
+    <string name="title_activity_regions">Regions</string>
+    <string name="title_activity_region">Region</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_contacts">Contacts</string>
+    <string name="title_activity_status">Status</string>
+    <string name="title_activity_preferences">Preferences</string>
+    <string name="unableToCopyCertificate">Unable to copy certificate to internal storage</string>
+    <string name="successCopyCertificate">Certificate copied to internal storage</string>
+    <string name="preferencesCategoryNotificationOngoing">Ongoing notification</string>
+    <string name="preferencesCategoryNotificationBackground">Background notifications</string>
+    <string name="preferencesCategoryAdvancedServices">Services</string>
+    <string name="preferencesCategoryAdvancedLocator">Locator</string>
+    <string name="preferencesCategoryAdvancedEncryption">Encryption</string>
+    <string name="preferencesCategoryAdvancedMisc">Misc</string>
+    <string name="contactDetailsTrackerId" translatable="false">Tracker ID</string>
+    <string name="waypointRemoved">Region removed</string>
+
+    <string name="preferencesImportFile">Import configuration</string>
+    <string name="preferencesImportFileSummary">Import configuration from file</string>
+    <string name="preferencesExportToFile">Export configuration</string>
+    <string name="preferencesExportToFileSummary">Export configuration to file</string>
+    <string name="exportWaypointsToEndpoint">Export Waypoints</string>
+    <string name="exportWaypointsToEndpointSummary">Export waypoints to service</string>
+    <string name="preferencesExportFailed">Preferences export failed</string>
+    <string name="preferencesExportSuccess">Export successful</string>
+    <string name="geofenceAndBeaconInactive">Geofence and beacon disabled</string>
+    <string name="geofenceAndBeaconActive">Geofence and beacon enabled</string>
+    <string name="beaconActive">Beacon enabled</string>
+    <string name="preferencesExportQueued">Export queued</string>
+
+
+    <string name="welcomeFixIssue">Fix</string>
+    <string name="welcomeFixQuit">Quit</string>
+    <string name="play_services_now_available">Google Play Services are now available</string>
+
+    <string name="play_services_not_available_recoverable">Google Play Services are not enabled or not installed</string>
+    <string name="play_services_not_available_not_recoverable">Google Play Services are not available for your device</string>
+    <string name="preferencesUrl" translatable="false">URL</string>
+    <string name="mode_http_private_label">Private HTTP</string>
+    <string name="messageQueued">message queued</string>
+
+
+    <string name="connectivityDisconnectedDataDisabled">"Disconnected: Data disabled"</string>
+
+
+    <string name="preferencesKeyModeId" translatable="false">mode</string>
+    <string name="preferencesKeyHost" translatable="false">host</string>
+    <string name="preferencesKeyIdentification" translatable="false">identification</string>
+    <string name="preferencesKeySecurity" translatable="false">security</string>
+    <string name="preferencesKeyParameters" translatable="false">parameters</string>
+    <string name="transitionEntering">entering</string>
+    <string name="transitionLeaving">leaving</string>
+    <string name="INITIAL">"Initializing</string>
+    <string name="IDLE">Idle</string>
+    <string name="CONNECTING">Connecting</string>
+    <string name="CONNECTED">Connected</string>
+    <string name="DISCONNECTING">Disconnecting</string>
+    <string name="DISCONNECTED">Disconnected</string>
+    <string name="DISCONNECTED_USERDISCONNECT">Disconnected</string>
+    <string name="ERROR">Error</string>
+    <string name="ERROR_DATADISABLED">Data connection not available</string>
+    <string name="ERROR_CONFIGURATION">Configuration incomplete</string>
+    <string name="errorPreferencesImportFailed">Import failed</string>
+    <string name="welcome_play_heading">Google Play Services</string>
+    <string name="welcome_play_description">Owntracks requires Google Play Services</string>
+    <string name="icon_description_warning">Warning</string>
+    <string name="play_services_not_available_general">Google Play Services are not available</string>
+    <string name="play_override_continue">Yes, continue at own risk</string>
+    <string name="play_override_question">It seems, Google Play Services cannot be used on your device. If you continue, this app is operating in unsupported mode. Certain features may not be available.</string>
+    <string name="welcome_heading">Welcome</string>
+    <string name="welcome_description">The following steps will help you to get started with Naloxone4you</string>
+    <string name="mode_heading">Mode</string>
+    <string name="mode_description">Naloxone4you can run in one of several modes. Select the mode that best suits your needs.</string>
+    <string name="mqtt_public_description">Try out Naloxone4you and share your location anonymously with other users</string>
+    <string name="mqtt_private_description">Connect to your own private Naloxone4you setup and share your location with family or friends</string>
+    <string name="permissions_heading">Permissions</string>
+    <string name="permissions_description">Naloxone4you requires access to your location. Please grant this permission before continuing.</string>
+    <string name="permissions_granted">Permissions have been granted</string>
+    <string name="icon_description_cloud">Cloud</string>
+    <string name="icon_description_owntracks">Naloxone4you</string>
+    <string name="enjoy_description">Enjoy Naloxone4you</string>
+    <string name="done_heading">Done</string>
+    <string name="icon_description_done">Done</string>
+    <string name="title_activity_import">Configuration import</string>
+    <string name="geocorderResolving">resolving</string>
+    <string name="errorPreferencesImportFailedParseException">unable to parse file</string>
+
+</resources>

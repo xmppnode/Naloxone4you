@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/save"
+        android:icon="@drawable/ic_done"
+        android:orderInCategory="97"
+        app:showAsAction="ifRoom"
+        android:title="@string/save">
+    </item>
+    <item
+        android:id="@+id/useCurrent"
+        android:icon="@drawable/ic_mylocation"
+        android:orderInCategory="97"
+        app:showAsAction="ifRoom"
+        android:title="@string/currentLocation">
+    </item>
+    <item
+        android:visible="false"
+        android:id="@+id/pick"
+        android:icon="@drawable/ic_waypoints"
+        android:orderInCategory="96"
+        app:showAsAction="ifRoom"
+        android:title="@string/currentLocation">
+    </item>
+</menu>

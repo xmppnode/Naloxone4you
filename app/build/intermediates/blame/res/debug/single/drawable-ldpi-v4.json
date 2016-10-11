@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/md_nav_back.png",
+        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/drawable-ldpi-v4/md_nav_back.png"
+    }
+]

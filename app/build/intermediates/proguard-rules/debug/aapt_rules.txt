@@ -1,0 +1,269 @@
+# view res/layout/design_navigation_item.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# view res/layout/design_navigation_menu.xml #generated:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# view res/layout/activity_export.xml #generated:8
+# view res/layout/activity_import.xml #generated:10
+# view res/layout/activity_preferences.xml #generated:8
+# view res/layout/activity_regions.xml #generated:7
+# view res/layout/activity_status.xml #generated:9
+# view res/layout/settings_toolbar.xml #generated:9
+# view res/layout/ui_activity_contacts.xml #generated:15
+# view res/layout/ui_activity_map.xml #generated:18
+# view res/layout/ui_activity_status.xml #generated:14
+-keep class android.support.design.widget.AppBarLayout { <init>(...); }
+
+# view res/layout/design_text_input_password_icon.xml #generated:18
+-keep class android.support.design.widget.CheckableImageButton { <init>(...); }
+
+# view res/layout/activity_import.xml #generated:1
+# view res/layout/activity_preferences.xml #generated:2
+# view res/layout/design_bottom_sheet_dialog.xml #generated:17
+# view res/layout/ui_activity_contacts.xml #generated:9
+# view res/layout/ui_activity_map.xml #generated:13
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# view res/layout/design_layout_snackbar.xml #generated:18
+# view sw600dp-v13/res/layout-sw600dp-v13/design_layout_snackbar.xml #generated:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:153
+-keep class android.support.v4.content.FileProvider { <init>(...); }
+
+# view res/layout/material_drawer.xml #generated:2
+# view res/layout/material_drawer_fits_not.xml #generated:2
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:75
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:39
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# view ldrtl-v17/res/layout-ldrtl-v17/md_listitem_multichoice.xml #generated:28
+# view res/layout/md_listitem_multichoice.xml #generated:15
+-keep class android.support.v7.widget.AppCompatCheckBox { <init>(...); }
+
+# view ldrtl-v17/res/layout-ldrtl-v17/md_listitem_singlechoice.xml #generated:28
+# view res/layout/fragment_welcome_mode.xml #generated:76
+# view res/layout/fragment_welcome_mode.xml #generated:85
+# view res/layout/fragment_welcome_mode.xml #generated:95
+# view res/layout/md_listitem_singlechoice.xml #generated:15
+-keep class android.support.v7.widget.AppCompatRadioButton { <init>(...); }
+
+# view res/layout/fragment_welcome_mode.xml #generated:108
+# view res/layout/fragment_welcome_permissions.xml #generated:40
+# view res/layout/fragment_welcome_play.xml #generated:67
+-keep class android.support.v7.widget.AppCompatTextView { <init>(...); }
+
+# view res/layout/abc_alert_dialog_button_bar_material.xml #generated:18
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# view res/layout/abc_alert_dialog_material.xml #generated:48
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# view res/layout/abc_dialog_title_material.xml #generated:22
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# view res/layout/material_drawer_recycler_view.xml #generated:2
+# view res/layout/md_dialog_list.xml #generated:39
+# view res/layout/md_dialog_list_check.xml #generated:39
+# view res/layout/ui_activity_contacts.xml #generated:27
+-keep class android.support.v7.widget.RecyclerView { <init>(...); }
+
+# view res/layout/abc_search_view.xml #generated:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view res/layout/material_drawer_item_secondary_switch.xml #generated:58
+# view res/layout/material_drawer_item_switch.xml #generated:58
+-keep class android.support.v7.widget.SwitchCompat { <init>(...); }
+
+# view res/layout/abc_screen_toolbar.xml #generated:36
+# view res/layout/activity_export.xml #generated:15
+# view res/layout/activity_featured.xml #generated:7
+# view res/layout/activity_import.xml #generated:16
+# view res/layout/activity_preferences.xml #generated:14
+# view res/layout/activity_region.xml #generated:17
+# view res/layout/activity_regions.xml #generated:13
+# view res/layout/activity_status.xml #generated:15
+# view res/layout/settings_toolbar.xml #generated:15
+# view res/layout/ui_activity_contacts.xml #generated:21
+# view res/layout/ui_activity_map.xml #generated:24
+# view res/layout/ui_activity_status.xml #generated:20
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# view res/layout/md_stub_colorchooser_grid.xml #generated:2
+-keep class com.afollestad.materialdialogs.color.FillGridView { <init>(...); }
+
+# view res/layout/md_stub_actionbuttons.xml #generated:16
+# view res/layout/md_stub_actionbuttons.xml #generated:4
+# view res/layout/md_stub_actionbuttons.xml #generated:9
+-keep class com.afollestad.materialdialogs.internal.MDButton { <init>(...); }
+
+# view res/layout/md_dialog_basic.xml #generated:1
+# view res/layout/md_dialog_basic_check.xml #generated:1
+# view res/layout/md_dialog_custom.xml #generated:1
+# view res/layout/md_dialog_input.xml #generated:1
+# view res/layout/md_dialog_input_check.xml #generated:1
+# view res/layout/md_dialog_list.xml #generated:1
+# view res/layout/md_dialog_list_check.xml #generated:1
+# view res/layout/md_dialog_progress.xml #generated:1
+# view res/layout/md_dialog_progress_indeterminate.xml #generated:1
+# view res/layout/md_dialog_progress_indeterminate_horizontal.xml #generated:1
+-keep class com.afollestad.materialdialogs.internal.MDRootLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:229
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(...); }
+
+# view res/layout/ui_activity_map.xml #generated:32
+-keep class com.google.android.gms.maps.MapView { <init>(...); }
+
+# view res/layout/material_drawer_item_expandable.xml #generated:67
+-keep class com.mikepenz.iconics.view.IconicsImageView { <init>(...); }
+
+# view res/layout/material_drawer_compact_header.xml #generated:17
+# view res/layout/material_drawer_compact_header.xml #generated:23
+# view res/layout/material_drawer_compact_header.xml #generated:29
+# view res/layout/material_drawer_compact_header.xml #generated:35
+# view res/layout/material_drawer_header.xml #generated:16
+# view res/layout/material_drawer_header.xml #generated:35
+# view res/layout/material_drawer_header.xml #generated:44
+# view res/layout/material_drawer_header.xml #generated:53
+# view res/layout/material_drawer_item_mini_profile.xml #generated:6
+# view res/layout/material_drawer_item_profile.xml #generated:22
+-keep class com.mikepenz.materialdrawer.view.BezelImageView { <init>(...); }
+
+# view res/layout/materialize.xml #generated:5
+-keep class com.mikepenz.materialize.view.ScrimInsetsFrameLayout { <init>(...); }
+
+# view res/layout/material_drawer_slider.xml #generated:2
+-keep class com.mikepenz.materialize.view.ScrimInsetsRelativeLayout { <init>(...); }
+
+# view res/layout/activity_region.xml #generated:103
+# view res/layout/activity_region.xml #generated:120
+# view res/layout/activity_region.xml #generated:138
+# view res/layout/activity_region.xml #generated:155
+# view res/layout/activity_region.xml #generated:34
+# view res/layout/activity_region.xml #generated:71
+# view res/layout/activity_region.xml #generated:87
+# view res/layout/preferences_host_http.xml #generated:11
+# view res/layout/preferences_host_mqtt.xml #generated:11
+# view res/layout/preferences_host_mqtt.xml #generated:23
+# view res/layout/preferences_identification.xml #generated:34
+# view res/layout/preferences_identification.xml #generated:46
+# view res/layout/preferences_identification.xml #generated:58
+# view res/layout/preferences_identification.xml #generated:71
+# view res/layout/preferences_options.xml #generated:36
+# view res/layout/preferences_security.xml #generated:38
+# view res/layout/preferences_security.xml #generated:56
+# view res/layout/preferences_security.xml #generated:73
+-keep class com.rengwuxian.materialedittext.MaterialEditText { <init>(...); }
+
+# view AndroidManifest.xml #generated:252
+-keep class org.altbeacon.beacon.BeaconIntentProcessor { <init>(...); }
+
+# view AndroidManifest.xml #generated:246
+-keep class org.altbeacon.beacon.service.BeaconService { <init>(...); }
+
+# view AndroidManifest.xml #generated:238
+-keep class org.altbeacon.beacon.startup.StartupBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class org.owntracks.android.App { <init>(...); }
+
+# view AndroidManifest.xml #generated:84
+-keep class org.owntracks.android.activities.ActivityExport { <init>(...); }
+
+# view AndroidManifest.xml #generated:93
+-keep class org.owntracks.android.activities.ActivityImport { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class org.owntracks.android.activities.ActivityPreferences { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class org.owntracks.android.activities.ActivityPreferencesConnection { <init>(...); }
+
+# view AndroidManifest.xml #generated:67
+-keep class org.owntracks.android.activities.ActivityRegion { <init>(...); }
+
+# view AndroidManifest.xml #generated:63
+-keep class org.owntracks.android.activities.ActivityRegions { <init>(...); }
+
+# view AndroidManifest.xml #generated:195
+-keep class org.owntracks.android.activities.ActivityStatus { <init>(...); }
+
+# view AndroidManifest.xml #generated:216
+-keep class org.owntracks.android.activities.ActivityWelcome { <init>(...); }
+
+# view AndroidManifest.xml #generated:163
+-keep class org.owntracks.android.services.ServiceMessageHttpGcm { <init>(...); }
+
+# view AndroidManifest.xml #generated:171
+-keep class org.owntracks.android.services.ServiceProxy { <init>(...); }
+
+# view AndroidManifest.xml #generated:176
+-keep class org.owntracks.android.support.receiver.BootCompleteReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:184
+-keep class org.owntracks.android.support.receiver.ReceiverProxy { <init>(...); }
+
+# view res/xml/preferences_http_connection.xml #generated:6
+# view res/xml/preferences_private_connection.xml #generated:6
+# view res/xml/preferences_public_connection.xml #generated:6
+-keep class org.owntracks.android.support.widgets.ListIntegerPreference { <init>(...); }
+
+# view res/layout/activity_welcome.xml #generated:7
+-keep class org.owntracks.android.support.widgets.PausableViewPager { <init>(...); }
+
+# view res/layout/activity_regions.xml #generated:20
+-keep class org.owntracks.android.support.widgets.RecyclerView { <init>(...); }
+
+# view res/xml/preferences_root.xml #generated:34
+# view res/xml/preferences_root.xml #generated:60
+-keep class org.owntracks.android.support.widgets.ToolbarPreference { <init>(...); }
+
+# view AndroidManifest.xml #generated:204
+-keep class org.owntracks.android.ui.contacts.ContactsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:210
+-keep class org.owntracks.android.ui.map.MapActivity { <init>(...); }
+

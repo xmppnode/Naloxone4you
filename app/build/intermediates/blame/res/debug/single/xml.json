@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/xml/filepaths.xml",
+        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/xml/filepaths.xml"
+    },
+    {
+        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/xml/preferences_root.xml",
+        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/xml/preferences_root.xml"
+    },
+    {
+        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/xml/preferences_public_connection.xml",
+        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/xml/preferences_public_connection.xml"
+    },
+    {
+        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/xml/export.xml",
+        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/xml/export.xml"
+    },
+    {
+        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/xml/preferences_http_connection.xml",
+        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/xml/preferences_http_connection.xml"
+    },
+    {
+        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/xml/preferences_private_connection.xml",
+        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/xml/preferences_private_connection.xml"
+    }
+]
