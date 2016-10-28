@@ -1,6 +1,6 @@
 [
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v23/abc_control_background_material.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v23/abc_control_background_material.xml"
     }
 ]

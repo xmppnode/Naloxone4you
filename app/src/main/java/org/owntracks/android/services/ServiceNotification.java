@@ -351,7 +351,7 @@ public class ServiceNotification implements ProxyableService {
     public void processMessage(MessageTransition message) {
         if(message.getRetained())
             return;
-
+//xx
         addNotificationEvents(message);
         updateNotificationEvents();
 

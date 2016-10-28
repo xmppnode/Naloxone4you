@@ -1,490 +1,490 @@
 [
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer_item_container.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_container.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/activity_welcome.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer_header.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_header.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/activity_regions.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/activity_regions.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer_fits_not.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_fits_not.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_header.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/ui_activity_map.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/ui_activity_map.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/activity_region.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/activity_region.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/ui_activity_status.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/ui_activity_status.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/res/layout/place_autocomplete_fragment.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_text.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer_recycler_view.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_recycler_view.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_stub_actionbuttons.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_stub_actionbuttons.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_menu_item.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer_item_secondary_switch.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_secondary_switch.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_text_input_password_icon.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/preferences_identification.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/preferences_identification.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer_item_divider.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_divider.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_menu.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/ui_activity_status.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/ui_activity_status.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar_include.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_header_item_layout.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/activity_preferences.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/activity_preferences.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer_item_secondary_switch.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_secondary_switch.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer_item_profile_setting.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_profile_setting.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer_fits_not.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_fits_not.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer_item_profile.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_profile.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_bottom_sheet_dialog.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/preferences_options.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/preferences_options.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_dialog_list_check.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_list_check.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/activity_status.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/activity_status.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_listitem_multichoice.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_listitem_multichoice.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/row_waypoint.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/row_waypoint.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer_compact_header.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_compact_header.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_dialog_colorchooser.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/commons/0.9.0.2/res/layout/md_dialog_colorchooser.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_stub_titleframe_lesspadding.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_stub_titleframe_lesspadding.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_stub_actionbuttons.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_stub_actionbuttons.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_stub_colorchooser_grid.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/commons/0.9.0.2/res/layout/md_stub_colorchooser_grid.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/res/layout/place_autocomplete_item_prediction.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_icon.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer_slider.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_slider.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer_item_secondary.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_secondary.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_chronometer.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_media.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/preferences_host_mqtt.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/preferences_host_mqtt.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate_horizontal.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_progress_indeterminate_horizontal.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer_item_primary.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_primary.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/activity_preferences.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/activity_preferences.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/preferences_host_mqtt.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/preferences_host_mqtt.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/fragment_welcome_intro.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/fragment_welcome_intro.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer_item_expandable.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_expandable.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_menu_item_action_area.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/materialize.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/layout/materialize.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer_recycler_view.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_recycler_view.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_stub_titleframe.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_stub_titleframe.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/res/layout/place_autocomplete_item_powered_by_google.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_material.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/preferences_host_http.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/preferences_host_http.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_subheader.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_layout.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_listitem.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_listitem.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_icon.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_action.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_stub_colorchooser_custom.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/commons/0.9.0.2/res/layout/md_stub_colorchooser_custom.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_dialog_custom.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_custom.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/activity_featured.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/activity_featured.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/settings_toolbar.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/settings_toolbar.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer_item_mini_profile.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_mini_profile.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer_item_secondary_toggle.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_secondary_toggle.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_title_item.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_lines.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/activity_export.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/activity_export.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_listitem_singlechoice.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_listitem_singlechoice.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_stub_colorchooser_grid.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/commons/0.9.0.2/res/layout/md_stub_colorchooser_grid.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer_item_divider.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_divider.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate_horizontal.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_progress_indeterminate_horizontal.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/fragment_welcome_play.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/fragment_welcome_play.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/activity_export.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/activity_export.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/fragment_welcome_done.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/fragment_welcome_done.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_cancel_action.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_text.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_view.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/res/layout/place_autocomplete_progress.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_dialog_input.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_input.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_stub_inputpref.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/commons/0.9.0.2/res/layout/md_stub_inputpref.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/activity_import.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/activity_import.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_dialog_list_check.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_list_check.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer_item_switch.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_switch.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_dialog_input.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_input.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_time.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_dialog_input_check.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_input_check.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_dialog_basic.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_basic.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/fragment_welcome_mode.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/fragment_welcome_mode.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_text_input_password_icon.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_stub_titleframe_lesspadding.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_stub_titleframe_lesspadding.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/preferences_identification.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/preferences_identification.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/ui_activity_map.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/ui_activity_map.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer_item_switch.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_switch.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_menu.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/activity_import.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/activity_import.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_listitem.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_listitem.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/res/layout/place_autocomplete_fragment.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_progress_indeterminate.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/preferences_options.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/preferences_options.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_dialog_list.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_list.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_separator.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/activity_status.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/activity_status.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_action.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/res/layout/place_autocomplete_progress.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_lines.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_dialog_basic_check.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_basic_check.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer_item_toggle.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_toggle.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer_item_profile.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_profile.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer_item_section.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_section.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar_include.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_stub_colorchooser_custom.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/commons/0.9.0.2/res/layout/md_stub_colorchooser_custom.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_simplelist_item.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/commons/0.9.0.2/res/layout/md_simplelist_item.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_simplelist_item.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/commons/0.9.0.2/res/layout/md_simplelist_item.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_content_include.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_listitem_multichoice.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_listitem_multichoice.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_item_material.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer_compact_header.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_compact_header.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/ui_row_contact.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/ui_row_contact.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer_slider.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_slider.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/res/layout/place_autocomplete_item_powered_by_google.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer_item_container.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_container.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_dialog_custom.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_custom.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/materialize.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/layout/materialize.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_stub_titleframe.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_stub_titleframe.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/fragment_welcome_play.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/fragment_welcome_play.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_singlechoice_material.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer_item_expandable.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_expandable.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer_header.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_header.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer_item_secondary.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_secondary.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_listitem_singlechoice.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_listitem_singlechoice.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/fragment_welcome_permissions.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/fragment_welcome_permissions.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_dialog_list.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_list.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_up_container.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/activity_featured.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/activity_featured.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_menu_item_action_area.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/activity_region.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/activity_region.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer_item_profile_setting.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_profile_setting.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_dialog_colorchooser.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/commons/0.9.0.2/res/layout/md_dialog_colorchooser.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_dialog_progress.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_progress.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer_item_mini.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_mini.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/res/layout/place_autocomplete_item_prediction.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/activity_regions.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/activity_regions.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer_item_primary.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_primary.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/ui_activity_contacts.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/ui_activity_contacts.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_menu_item.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/fragment_welcome_done.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/fragment_welcome_done.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/preferences_security.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/preferences_security.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/preferences_host_http.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/preferences_host_http.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/activity_welcome.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer_item_secondary_toggle.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_secondary_toggle.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_cancel_action.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_expanded_menu_layout.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_dialog_title_material.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/ui_row_contact.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/ui_row_contact.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_toolbar.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer_item_toggle.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_toggle.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer_item_mini.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_mini.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_stub_inputpref.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/commons/0.9.0.2/res/layout/md_stub_inputpref.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/row_waypoint.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/row_waypoint.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_dialog_basic_check.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_basic_check.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_preference_custom.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/commons/0.9.0.2/res/layout/md_preference_custom.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_header.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/fragment_welcome_mode.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/fragment_welcome_mode.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/ui_activity_contacts.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/ui_activity_contacts.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_dialog_progress_indeterminate.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_progress_indeterminate.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media_narrow.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/fragment_welcome_intro.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/layout/fragment_welcome_intro.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/settings_toolbar.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/settings_toolbar.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_preference_custom.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/commons/0.9.0.2/res/layout/md_preference_custom.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/preferences_security.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/preferences_security.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/material_drawer_item_section.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_section.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/material_drawer_item_mini_profile.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialdrawer/5.6.0/res/layout/material_drawer_item_mini_profile.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_bar.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_select_dialog_material.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_separator.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_dialog_progress.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_progress.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/md_dialog_input_check.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_input_check.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/fragment_welcome_permissions.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/layout/fragment_welcome_permissions.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/md_dialog_basic.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout/md_dialog_basic.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_subheader.xml"
     }
 ]

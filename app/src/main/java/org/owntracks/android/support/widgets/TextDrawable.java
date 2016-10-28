@@ -350,7 +350,9 @@ public class TextDrawable extends ShapeDrawable {
         }
 
         public int getColor(Object key) {
-            return mColors.get(Math.abs(key.hashCode()) % mColors.size());
+            //xx
+            //return mColors.get(Math.abs(key.hashCode()) % mColors.size());
+            return 0xFFB0BEC5;
         }
     }
 

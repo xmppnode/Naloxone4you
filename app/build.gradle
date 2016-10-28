@@ -93,7 +93,7 @@ dependencies {
     compile 'org.greenrobot:eventbus:3.0.0'
     compile 'com.google.zxing:android-integration:3.2.1' // Code scanning
     compile 'org.greenrobot:greendao:3.0.1'
-    compile 'org.altbeacon:android-beacon-library:2.7.1@aar'
+    compile 'org.altbeacon:android-beacon-library:2.9.1@aar'
     compile 'org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.1.1-20160924.042004-38'
     compile 'com.squareup.okhttp3:okhttp:3.4.1'
     compile 'com.fasterxml.jackson.core:jackson-core:2.7.3'

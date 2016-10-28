@@ -1,38 +1,38 @@
 [
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/menu/activity_waypoints.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/menu/activity_waypoints.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/menu/activity_waypoint.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/menu/activity_waypoint.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/menu/picker.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/menu/picker.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/menu/picker.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/menu/picker.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/menu/activity_waypoints_actionmode.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/menu/activity_waypoints_actionmode.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/menu/activity_waypoints.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/menu/activity_waypoints.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/menu/menu_popup_contacts.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/menu/menu_popup_contacts.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/menu/activity_waypoints_actionmode.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/menu/activity_waypoints_actionmode.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/menu/activity_waypoint.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/menu/activity_waypoint.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/menu/activity_map.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/menu/activity_map.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/menu/activity_status.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/menu/activity_status.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/menu/activity_export.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/menu/activity_export.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/menu/preferences_connection_mqtt.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/menu/preferences_connection_mqtt.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/menu/preferences_connection_mqtt.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/menu/preferences_connection_mqtt.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/menu/activity_export.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/menu/activity_export.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/menu/menu_popup_contacts.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/menu/menu_popup_contacts.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/menu/activity_map.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/menu/activity_map.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/menu/activity_status.xml",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/menu/activity_status.xml"
     }
 ]

@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout-v14/md_stub_progress.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout-v14/md_stub_progress.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout-v14/md_stub_progress_indeterminate.xml"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout-v14/md_stub_progress_indeterminate.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout-v14/md_stub_progress_indeterminate_horizontal.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/layout-v14/md_stub_progress_indeterminate_horizontal.xml"
     }
 ]

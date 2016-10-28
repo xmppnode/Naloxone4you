@@ -1,126 +1,126 @@
 [
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_settings_black_36dp.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_settings_black_36dp.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_done_all_white_48dp.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_done_all_white_48dp.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_delete.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_delete.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/met_ic_clear.png",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/2.1.4/res/drawable-xhdpi/met_ic_clear.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_fiber_manual_record_white_18dp.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_fiber_manual_record_white_18dp.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_location.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_location.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_adjust_black_24dp.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_adjust_black_24dp.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_delete.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_delete.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_bluetooth_black_24dp.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_bluetooth_black_24dp.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_done.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_done.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_cloud_queue_white_48dp.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_cloud_queue_white_48dp.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_qrcode_grey600_36dp.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_qrcode_grey600_36dp.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_keyboard_arrow_right_white_24dp.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_keyboard_arrow_right_white_24dp.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_notification.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_notification.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_info_black_24dp.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_info_black_24dp.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_fiber_manual_record_white_18dp.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_fiber_manual_record_white_18dp.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_done_all_white_48dp.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_done_all_white_48dp.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_report.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_report.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_done_white_24dp.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_done_white_24dp.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_close.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_close.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_assignment_turned_in_white_48dp.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_assignment_turned_in_white_48dp.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_info_black_24dp.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_info_black_24dp.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_waypoints.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_waypoints.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_more_horiz_black_24dp.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_more_horiz_black_24dp.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_qrcode_grey600_36dp.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_qrcode_grey600_36dp.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_radius.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_radius.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_notification_old.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_notification_old.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_supervisor_account_black_24dp.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_supervisor_account_black_24dp.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_bluetooth_black_36dp.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_bluetooth_black_36dp.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_bluetooth_black_24dp.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_bluetooth_black_24dp.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_done.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_done.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_notification_old.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_notification_old.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/met_ic_clear.png",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/2.1.4/res/drawable-xhdpi/met_ic_clear.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_layers_black_24dp.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_layers_black_24dp.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_bluetooth_black_36dp.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_bluetooth_black_36dp.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_report.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_report.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_settings_black_36dp.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_settings_black_36dp.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_refresh_white_24dp.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_refresh_white_24dp.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_mylocation.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_mylocation.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_mylocation.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_mylocation.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_done_white_24dp.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_done_white_24dp.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_assignment_late_white_48dp.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_assignment_late_white_48dp.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_cloud_queue_white_48dp.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_cloud_queue_white_48dp.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_layers_black_24dp.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_layers_black_24dp.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_report_notification.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_report_notification.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_supervisor_account_black_24dp.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_supervisor_account_black_24dp.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_adjust_black_24dp.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_adjust_black_24dp.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_close.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_close.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_add.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_add.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_radius.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_radius.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_assignment_late_white_48dp.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_assignment_late_white_48dp.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_location.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_location.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_add.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_add.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_refresh_white_24dp.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_refresh_white_24dp.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_more_horiz_black_24dp.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_more_horiz_black_24dp.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_assignment_turned_in_white_48dp.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_assignment_turned_in_white_48dp.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_report_notification.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_report_notification.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_waypoints.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_waypoints.png"
     },
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_notification.png",
-        "source": "/home/broker/code/naloxone4you/project/app/src/main/res/drawable-xhdpi/ic_notification.png"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_keyboard_arrow_right_white_24dp.png",
+        "source": "/home/broker/code/naloxone4you/app/src/main/res/drawable-xhdpi/ic_keyboard_arrow_right_white_24dp.png"
     }
 ]

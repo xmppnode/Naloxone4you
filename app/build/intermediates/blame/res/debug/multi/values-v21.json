@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/broker/code/naloxone4you/project/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+        "outputFile": "/home/broker/code/naloxone4you/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 102
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 193
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 296
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 399
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 504
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 611
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 720
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 829
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 938
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1047
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1156
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1263
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1366
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1485
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -278,7 +278,7 @@
                     "endOffset": 1640
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -299,7 +299,7 @@
                     "endOffset": 1795
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -319,7 +319,7 @@
                     "endOffset": 1900
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -338,7 +338,7 @@
                     "endOffset": 2021
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -357,7 +357,7 @@
                     "endOffset": 2122
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -377,7 +377,7 @@
                     "endOffset": 2269
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -398,7 +398,7 @@
                     "endOffset": 2410
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -418,7 +418,7 @@
                     "endOffset": 2513
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -437,7 +437,7 @@
                     "endOffset": 2632
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -456,7 +456,7 @@
                     "endOffset": 2739
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -475,7 +475,7 @@
                     "endOffset": 2842
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -495,7 +495,7 @@
                     "endOffset": 2997
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -516,7 +516,7 @@
                     "endOffset": 3168
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -537,7 +537,7 @@
                     "endOffset": 3317
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -558,7 +558,7 @@
                     "endOffset": 3482
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -579,7 +579,7 @@
                     "endOffset": 3639
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 3790
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -620,7 +620,7 @@
                     "endOffset": 3909
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -640,7 +640,7 @@
                     "endOffset": 4281
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -661,7 +661,7 @@
                     "endOffset": 4430
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -682,7 +682,7 @@
                     "endOffset": 4579
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -702,7 +702,7 @@
                     "endOffset": 4691
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -721,7 +721,7 @@
                     "endOffset": 4838
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -741,7 +741,7 @@
                     "endOffset": 4991
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -762,7 +762,7 @@
                     "endOffset": 5138
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -782,7 +782,7 @@
                     "endOffset": 5213
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -801,7 +801,7 @@
                     "endOffset": 5302
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 4,
@@ -820,7 +820,7 @@
                     "endOffset": 5389
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -839,7 +839,7 @@
                     "endOffset": 5490
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -858,7 +858,7 @@
                     "endOffset": 5593
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -878,7 +878,7 @@
                     "endOffset": 8661
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -899,7 +899,7 @@
                     "endOffset": 8847
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 107,
                         "startColumn": 4,
@@ -920,7 +920,7 @@
                     "endOffset": 11927
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 110,
                         "startColumn": 4,
@@ -941,7 +941,7 @@
                     "endOffset": 12125
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 154,
                         "startColumn": 4,
@@ -962,7 +962,7 @@
                     "endOffset": 12325
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 157,
                         "startColumn": 4,
@@ -983,7 +983,7 @@
                     "endOffset": 12448
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 160,
                         "startColumn": 4,
@@ -1004,7 +1004,7 @@
                     "endOffset": 12571
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 162,
                         "startColumn": 4,
@@ -1025,7 +1025,7 @@
                     "endOffset": 12684
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 164,
                         "startColumn": 4,
@@ -1046,7 +1046,7 @@
                     "endOffset": 12867
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
@@ -1067,7 +1067,7 @@
                     "endOffset": 12998
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
@@ -1088,7 +1088,7 @@
                     "endOffset": 13199
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 171,
                         "startColumn": 4,
@@ -1108,7 +1108,7 @@
                     "endOffset": 13288
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 174,
                         "startColumn": 4,
@@ -1127,7 +1127,7 @@
                     "endOffset": 13399
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 175,
                         "startColumn": 4,
@@ -1147,7 +1147,7 @@
                     "endOffset": 13632
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
@@ -1167,7 +1167,7 @@
                     "endOffset": 13733
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -1186,7 +1186,7 @@
                     "endOffset": 13828
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 180,
                         "startColumn": 4,
@@ -1205,7 +1205,7 @@
                     "endOffset": 13951
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -1224,7 +1224,7 @@
                     "endOffset": 14080
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 182,
                         "startColumn": 4,
@@ -1243,7 +1243,7 @@
                     "endOffset": 14197
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -1263,7 +1263,7 @@
                     "endOffset": 14374
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 184,
                         "startColumn": 4,
@@ -1283,7 +1283,7 @@
                     "endOffset": 14473
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 187,
                         "startColumn": 4,
@@ -1303,7 +1303,7 @@
                     "endOffset": 14608
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 188,
                         "startColumn": 4,
@@ -1324,7 +1324,7 @@
                     "endOffset": 14751
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 190,
                         "startColumn": 4,
@@ -1345,7 +1345,7 @@
                     "endOffset": 14886
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -1366,7 +1366,7 @@
                     "endOffset": 15005
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1387,7 +1387,7 @@
                     "endOffset": 15206
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1408,7 +1408,7 @@
                     "endOffset": 15325
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
@@ -1428,7 +1428,7 @@
                     "endOffset": 15418
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -1447,7 +1447,7 @@
                     "endOffset": 15529
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 203,
                         "startColumn": 4,
@@ -1466,7 +1466,7 @@
                     "endOffset": 15585
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
@@ -1486,7 +1486,7 @@
                     "endOffset": 15692
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -1507,7 +1507,7 @@
                     "endOffset": 15887
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -1528,7 +1528,7 @@
                     "endOffset": 15998
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 211,
                         "startColumn": 4,
@@ -1549,7 +1549,7 @@
                     "endOffset": 16131
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 213,
                         "startColumn": 4,
@@ -1569,7 +1569,7 @@
                     "endOffset": 16226
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 215,
                         "startColumn": 4,
@@ -1588,7 +1588,7 @@
                     "endOffset": 16317
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 216,
                         "startColumn": 4,
@@ -1607,7 +1607,7 @@
                     "endOffset": 16408
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 217,
                         "startColumn": 4,
@@ -1626,7 +1626,7 @@
                     "endOffset": 16525
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 218,
                         "startColumn": 4,
@@ -1646,7 +1646,7 @@
                     "endOffset": 16664
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
@@ -1667,7 +1667,7 @@
                     "endOffset": 17423
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1688,7 +1688,7 @@
                     "endOffset": 18174
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1709,7 +1709,7 @@
                     "endOffset": 18350
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1730,7 +1730,7 @@
                     "endOffset": 18673
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1751,7 +1751,7 @@
                     "endOffset": 18861
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1772,7 +1772,7 @@
                     "endOffset": 19220
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1793,7 +1793,7 @@
                     "endOffset": 19555
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1814,7 +1814,7 @@
                     "endOffset": 19767
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -1835,7 +1835,7 @@
                     "endOffset": 20106
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -1856,7 +1856,7 @@
                     "endOffset": 20421
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -1877,7 +1877,7 @@
                     "endOffset": 20724
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.mikepenz/materialize/1.0.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -1898,7 +1898,7 @@
                     "endOffset": 21237
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 221,
                         "startColumn": 4,
@@ -1919,7 +1919,7 @@
                     "endOffset": 21762
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 231,
                         "startColumn": 4,
@@ -1940,7 +1940,7 @@
                     "endOffset": 22442
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
@@ -1960,7 +1960,7 @@
                     "endOffset": 22499
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 251,
                         "startColumn": 4,
@@ -1979,7 +1979,7 @@
                     "endOffset": 22557
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 252,
                         "startColumn": 4,
@@ -1999,7 +1999,7 @@
                     "endOffset": 22713
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/src/main/res/values-v21/styles.xml",
+                    "file": "/home/broker/code/naloxone4you/app/src/main/res/values-v21/styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 8,
@@ -2020,7 +2020,7 @@
                     "endOffset": 22907
                 },
                 "from": {
-                    "file": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/values-v21/values-v21.xml",
+                    "file": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

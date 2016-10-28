@@ -33,6 +33,7 @@ public class ContactsViewModel extends BaseViewModel<ContactsMvvm.View> implemen
 
     @Override
     public ObservableList<FusedContact> getContacts() {
+
         return contactsRepo.getAll();
     }
 

@@ -6,9 +6,11 @@ import android.content.res.Resources;
 import android.support.annotation.Nullable;
 import android.util.Log;
 import android.util.LongSparseArray;
+import android.widget.Toast;
 
 import org.greenrobot.eventbus.Subscribe;
 import org.owntracks.android.App;
+import org.owntracks.android.R;
 import org.owntracks.android.messages.MessageBase;
 import org.owntracks.android.messages.MessageCard;
 import org.owntracks.android.messages.MessageCmd;
@@ -266,6 +268,8 @@ public class ServiceMessage implements ProxyableService, IncomingMessageProcesso
 
     @Override
     public void processIncomingMessage(MessageTransition message) {
+        //xx
+        //Toast.makeText(context, "Enter", Toast.LENGTH_SHORT).show();
         ServiceProxy.getServiceNotification().processMessage(message);
     }
 

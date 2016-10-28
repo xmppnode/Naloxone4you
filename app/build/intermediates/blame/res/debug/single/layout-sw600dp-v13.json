@@ -1,6 +1,6 @@
 [
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     }
 ]

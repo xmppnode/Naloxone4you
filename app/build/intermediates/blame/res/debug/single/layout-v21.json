@@ -1,6 +1,6 @@
 [
     {
-        "merged": "/home/broker/code/naloxone4you/project/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
-        "source": "/home/broker/code/naloxone4you/project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/res/layout-v21/place_autocomplete_fragment.xml"
+        "merged": "/home/broker/code/naloxone4you/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/broker/code/naloxone4you/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/res/layout-v21/place_autocomplete_fragment.xml"
     }
 ]

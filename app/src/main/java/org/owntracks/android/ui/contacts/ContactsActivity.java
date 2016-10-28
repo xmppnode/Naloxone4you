@@ -14,7 +14,8 @@ import org.owntracks.android.ui.base.BaseActivity;
 import timber.log.Timber;
 
 
-public class ContactsActivity extends BaseActivity<UiActivityContactsBinding, ContactsMvvm.ViewModel> implements ContactsMvvm.View, org.owntracks.android.ui.contacts.ContactsAdapter.ClickListener {
+public class ContactsActivity extends BaseActivity<UiActivityContactsBinding, ContactsMvvm.ViewModel>
+        implements ContactsMvvm.View, org.owntracks.android.ui.contacts.ContactsAdapter.ClickListener {
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {

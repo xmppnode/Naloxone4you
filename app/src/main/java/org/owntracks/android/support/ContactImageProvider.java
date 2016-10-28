@@ -121,7 +121,9 @@ public class ContactImageProvider {
         if(d != null) {
             return d;
         }
-        d = drawableToBitmap(TextDrawable.builder().buildRoundRect(contact.getTrackerId(), TextDrawable.ColorGenerator.MATERIAL.getColor(contact.getId()), FACE_DIMENSIONS));
+        //xx
+        d = drawableToBitmap(TextDrawable.builder().buildRoundRect(contact.getTrackerId(),
+                TextDrawable.ColorGenerator.MATERIAL.getColor(contact.getId()), FACE_DIMENSIONS));
         memoryCache.putLevelTid(contact.getId(), d);
         return d;
     }
