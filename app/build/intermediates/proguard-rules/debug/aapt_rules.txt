@@ -151,7 +151,7 @@
 # view res/layout/md_dialog_progress_indeterminate_horizontal.xml #generated:1
 -keep class com.afollestad.materialdialogs.internal.MDRootLayout { <init>(...); }
 
-# view AndroidManifest.xml #generated:229
+# view AndroidManifest.xml #generated:228
 -keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(...); }
 
 # view res/layout/ui_activity_map.xml #generated:32
@@ -198,13 +198,13 @@
 # view res/layout/preferences_security.xml #generated:73
 -keep class com.rengwuxian.materialedittext.MaterialEditText { <init>(...); }
 
-# view AndroidManifest.xml #generated:252
+# view AndroidManifest.xml #generated:251
 -keep class org.altbeacon.beacon.BeaconIntentProcessor { <init>(...); }
 
-# view AndroidManifest.xml #generated:246
+# view AndroidManifest.xml #generated:245
 -keep class org.altbeacon.beacon.service.BeaconService { <init>(...); }
 
-# view AndroidManifest.xml #generated:238
+# view AndroidManifest.xml #generated:237
 -keep class org.altbeacon.beacon.startup.StartupBroadcastReceiver { <init>(...); }
 
 # view AndroidManifest.xml #generated:50

@@ -306,11 +306,13 @@ ADDED from /home/broker/code/naloxone4you/app/src/main/AndroidManifest.xml:203:9
 	android:name
 		ADDED from /home/broker/code/naloxone4you/app/src/main/AndroidManifest.xml:204:13-47
 activity#org.owntracks.android.activities.ActivityWelcome
-ADDED from /home/broker/code/naloxone4you/app/src/main/AndroidManifest.xml:209:9-219:25
+ADDED from /home/broker/code/naloxone4you/app/src/main/AndroidManifest.xml:209:9-219:24
 	android:screenOrientation
 		ADDED from /home/broker/code/naloxone4you/app/src/main/AndroidManifest.xml:212:13-49
 	android:label
 		ADDED from /home/broker/code/naloxone4you/app/src/main/AndroidManifest.xml:211:13-45
+	android:launchMode
+		ADDED from /home/broker/code/naloxone4you/app/src/main/AndroidManifest.xml:213:13-44
 	android:configChanges
 		ADDED from /home/broker/code/naloxone4you/app/src/main/AndroidManifest.xml:210:13-63
 	android:name
