@@ -21,3 +21,9 @@ All Naloxone4you participants will install GNU Ring https://ring.cx/ on their de
 | Click Call                               | Complete action using Ring               | Click on a phone tube to call            |
 | ![app013](/home/broker/Downloads/Telegram Desktop/app013.jpg) |                                          |                                          |
 | Naloxone Carrier is on line!             |                                          |                                          |
+3. We use geofence regions to trigger 2 events : first - when naloxone carrier (NC) turn on switch on a beacon to indicate that "naloxone+number is on a way" and second - when she is in the proximity to overdose victim (OV) event that "help is arrived"
+
+   | ![reg01](/home/broker/Downloads/Telegram Desktop/regions01.jpg) | ![reg02](/home/broker/Downloads/Telegram Desktop/regions02.jpg) |
+   | ---------------------------------------- | ---------------------------------------- |
+   | NC has added this region to her device   | OV has added this region to her device   |
+4. The backend of naloxone4you is mosquitto - open source implementation of mqtt broker.
